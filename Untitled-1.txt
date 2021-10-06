@@ -4,6 +4,6 @@
 function myFunction() {
   let x = document.getElementById("demo");
   x.style.fontSize = "25px";
-  <br>
+  <b>
 }
 </script>
